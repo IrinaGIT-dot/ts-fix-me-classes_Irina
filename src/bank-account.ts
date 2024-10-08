@@ -1,5 +1,5 @@
 class BankAccount {
-    balance: number
+    balance: number //
 
     constructor(initialAmount: number) {
         this.balance = initialAmount
